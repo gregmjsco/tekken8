@@ -40,3 +40,7 @@ button {
   color: none;
   cursor: pointer;
 }
+
+.root {
+  width: 100%;
+}
